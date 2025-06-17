@@ -27,11 +27,11 @@ We build **decentralized DataDAOs** that leverage blockchain and AI to empower d
 
 ## 🗺️ Active Projects Roadmaps
 
-| Project | Description | Status     | Roadmap |
-|---------|-------------|------------|---------|
-| **1. IdentityChain DAO** | KYC/AML-compliant identity verification with DAO governance | `Planning`  | [View Roadmap →](projects/identitychain/ROADMAP.md) |
-| **2. AgriData Network** | IoT sensors + blockchain for sustainable agriculture | `Planning`  | [View Roadmap →](projects/agridata/ROADMAP.md) |
-| **3. PharmaLedger** | Medication traceability using DataDAOs | `Planning` | [View Roadmap →](projects/pharmaledger/ROADMAP.md) |
+| Project | Description | Status     | Roadmap                                              |
+|---------|-------------|------------|------------------------------------------------------|
+| **1. IdentityChain DAO** | KYC/AML-compliant identity verification with DAO governance | `Planning`  | [View Roadmap →](./projects/identitychain/ROADMAP.md) |
+| **2. AgriData Network** | IoT sensors + blockchain for sustainable agriculture | `Planning`  | [View Roadmap →](./projects/agridata/ROADMAP.md)     |
+| **3. PharmaLedger** | Medication traceability using DataDAOs | `Planning` | [View Roadmap →](./projects/pharmaledger/ROADMAP.md) |
 
 <!-- Logos de Socios -->
 ## 🤝 Ecosystem
