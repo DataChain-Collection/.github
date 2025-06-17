@@ -50,4 +50,3 @@ We build **decentralized DataDAOs** that leverage blockchain and AI to empower d
 
 > "Democratizing data value through decentralized collectives"  
 > – DataChain Manifesto
-```
