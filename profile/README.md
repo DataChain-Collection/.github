@@ -2,7 +2,7 @@
 
 [![Project Status](https://img.shields.io/badge/IdentityChain-Planning-blue)](projects/identitychain)
 [![AgriData](https://img.shields.io/badge/AgriData-Planning-blue)](projects/agridata)
-[![PharmaLedger](https://img.shields.io/badge/PharmaLedger-Planning-blue)](projects/pharmaledger)
+[![NutriDAO](https://img.shields.io/badge/NutriDAO-Planning-blue)](projects/nutridao)
 
 <!-- Banner Dinámico -->
 [//]: # ([![DataChain Collective Banner]&#40;./assets/banners/main-banner.png&#41;]&#40;https://datachain-collective.io&#41;)
@@ -39,7 +39,7 @@ As part of the **Vana** ecosystem, we are committed to:
 |--------|-------------|--------|---------|
 | **IdentityChain DAO** | DAO-based identity verification that respects privacy while complying with KYC/AML norms | `Planning` | [View Roadmap →](./projects/identitychain/ROADMAP.md) |
 | **AgriData Network** | Crowdsourced agricultural data via IoT for climate-resilient farming | `Planning` | [View Roadmap →](./projects/agridata/ROADMAP.md) |
-| **PharmaLedger** | End-to-end medication traceability through decentralized data registries | `Planning` | [View Roadmap →](./projects/pharmaledger/ROADMAP.md) |
+| **NutriDAO** | Community-owned DataDAO for supplement usage data, built on OpenFHIRChain | `Planning` | [View Roadmap →](./projects/nutridao/ROADMAP.md) |
 
 ---
 
