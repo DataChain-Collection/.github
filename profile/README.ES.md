@@ -2,7 +2,7 @@
 
 [![Project Status](https://img.shields.io/badge/IdentityChain-Planificación_estratégica-blue)](projects/identitychain)
 [![AgriData](https://img.shields.io/badge/AgriData-Planificación_estratégica-blue)](projects/agridata)
-[![PharmaLedger](https://img.shields.io/badge/PharmaLedger-Planificación_estratégica-blue)](projects/pharmaledger)
+[![NutriDAO](https://img.shields.io/badge/NutriDAO-Planificación_estratégica-blue)](projects/nutridao)
 
 
 <!-- Banner Dinámico -->
@@ -37,9 +37,9 @@ Como parte del ecosistema **Vana**, nos comprometemos a:
 
 | Proyecto | Descripción | Estado | Roadmap |
 |----------|-------------|--------|---------|
-| **IdentityChain DAO** | Verificación de identidad basada en DAO que respeta la privacidad y cumple con KYC/AML | `Planificación` | [Ver Roadmap →](./projects/identitychain/ROADMAP.md) |
-| **AgriData Network** | Datos agrícolas mediante IoT para una agricultura resiliente y sostenible | `Planificación` | [Ver Roadmap →](./projects/agridata/ROADMAP.md) |
-| **PharmaLedger** | Trazabilidad de medicamentos a través de registros de datos descentralizados | `Planificación` | [Ver Roadmap →](./projects/pharmaledger/ROADMAP.md) |
+| **IdentityChain DAO** | Verificación de identidad basada en DAO que respeta la privacidad y cumple con KYC/AML | `Planificación` | [Ver Roadmap →](./projects/daos/identitychain/ROADMAP.md) |
+| **AgriData Network** | Datos agrícolas mediante IoT para una agricultura resiliente y sostenible | `Planificación` | [Ver Roadmap →](./projects/daos/agridata/ROADMAP.md) |
+| **NutriDAO** |  DataDAO de propiedad comunitaria para datos de uso de suplementos, desarrollada sobre OpenFHIRChain | `Planificación` | [Ver Roadmap →](./projects/daos/nutridao/ROADMAP.md) |
 
 ---
 
@@ -58,7 +58,7 @@ Como parte del ecosistema **Vana**, nos comprometemos a:
 Buscamos colaboración abierta de desarrolladores, investigadores y comunidades conscientes del valor de sus datos.
 
 - **Contribuye**: [Guía de Contribución](CONTRIBUTING.ES.md)  
-- **Conversa**: Únete a nuestro [Discord](https://discord.gg/datachain_not_yet) *(próximamente)*  
+- **Debates**: Únete a nuestro [Discord](https://discord.com/channels/1384877094156239039/1384877094747639810)
 - **Síguenos**: [Twitter](https://twitter.com/datachaincol_not_yet) *(próximamente)*
 
 ¿Tienes preguntas o quieres colaborar en el desarrollo del proyecto? Puedes abrir un [issue](https://github.com/datachain-collective/issues_not_yet) *(próximamente)* o conversar en Discord.

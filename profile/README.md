@@ -37,9 +37,9 @@ As part of the **Vana** ecosystem, we are committed to:
 
 | Project | Description | Status | Roadmap |
 |--------|-------------|--------|---------|
-| **IdentityChain DAO** | DAO-based identity verification that respects privacy while complying with KYC/AML norms | `Planning` | [View Roadmap →](./projects/identitychain/ROADMAP.md) |
-| **AgriData Network** | Crowdsourced agricultural data via IoT for climate-resilient farming | `Planning` | [View Roadmap →](./projects/agridata/ROADMAP.md) |
-| **NutriDAO** | Community-owned DataDAO for supplement usage data, built on OpenFHIRChain | `Planning` | [View Roadmap →](./projects/nutridao/ROADMAP.md) |
+| **IdentityChain DAO** | DAO-based identity verification that respects privacy while complying with KYC/AML norms | `Planning` | [View Roadmap →](./projects/daos/identitychain/ROADMAP.md) |
+| **AgriData Network** | Crowdsourced agricultural data via IoT for climate-resilient farming | `Planning` | [View Roadmap →](./projects/daos/agridata/ROADMAP.md) |
+| **NutriDAO** | Community-owned DataDAO for supplement usage data, built on OpenFHIRChain | `Planning` | [View Roadmap →](./projects/daos/nutridao/ROADMAP.md) |
 
 ---
 
