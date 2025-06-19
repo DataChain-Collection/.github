@@ -18,7 +18,7 @@ IdentityChain rewards participation and allows contributors to govern rule updat
 ## 🔧 Built on OpenKYCChain
 
 **OpenKYCChain** is an open-source framework that defines reusable smart contracts and zk-enabled verification flows for on-chain KYC/AML compliance.  
-It includes a DID registry, credential issuance logic, and zk identity scoring models.
+<!-- It includes a DID registry, credential issuance logic, and zk identity scoring models.-->
 
 IdentityChain is the first applied use case of OpenKYCChain.  
 **OpenKYCChain is extensible and supports additional compliance models, risk scoring, and multi-jurisdictional adaptations.**
@@ -41,7 +41,7 @@ We are progressing through the following phases:
   Launching the MVP, defining tokenomics, and preparing for adoption and integration.
 
 - **Demo Day (Week 9)**  
-  Presenting NutriDAO to investors, builders, and the broader Vana ecosystem.
+  Presenting IdentityChain to investors, builders, and the broader Vana ecosystem.
 
 ---
 
