@@ -58,7 +58,7 @@ As part of the **Vana** ecosystem, we are committed to:
 We welcome open collaboration from developers, researchers, and data-conscious communities.
 
 - **Contribute**: [Contribution Guidelines (EN)](CONTRIBUTING.md) | [Guía de Contribución (ES)](CONTRIBUTING.ES.md)  
-- **Discuss**: Join our [Discord](https://discord.gg/datachain_not_yet) *(coming soon)*  
+- **Discuss**: Join our [Discord](https://discord.com/channels/1384877094156239039/1384877094747639810)
 - **Follow**: [Twitter](https://twitter.com/datachaincol_not_yet) *(coming soon)*
 
 Have questions or want to build with us? Feel free to open an [issue](https://github.com/datachain-collective/issues_not_yet) *(coming soon)* or connect via Discord.

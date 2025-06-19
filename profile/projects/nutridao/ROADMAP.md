@@ -78,7 +78,7 @@ We welcome collaborators from the health, Web3, and AI ecosystems.
 - 🧠 Researchers: Help define data schemas and ethical frameworks
 - 🗣️ Community: Help us grow awareness around data sovereignty and collective intelligence
 
-> 📬 Contact us via [Discord](https://discord.gg/nutridao_comingsoon) <!--or open an [issue](https://github.com/nutridao/issues)-->
+> 📬 Contact us via [Discord](https://discord.com/channels/1384877094156239039/1384877094747639810) <!--or open an [issue](https://github.com/nutridao/issues)-->
 
 ---
 
