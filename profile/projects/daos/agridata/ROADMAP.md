@@ -1,5 +1,7 @@
 # 🌾 AgriData
 
+> 🇪🇸 [Versión en Español disponible aquí](./ROADMAP.ES.md)
+
 > A decentralized DataDAO for sharing and activating agricultural data to optimize farming and sustainability.  
 > Built directly on the Vana protocol to support ethical data contribution, AI-driven insights, and transparent governance.
 

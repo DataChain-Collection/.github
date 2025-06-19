@@ -1,5 +1,7 @@
 # 🌐 DataChain-Collective
 
+> 🇪🇸 [Versión en Español disponible aquí](./README.ES.md)
+
 [![Project Status](https://img.shields.io/badge/IdentityChain-Planning-blue)](projects/identitychain)
 [![AgriData](https://img.shields.io/badge/AgriData-Planning-blue)](projects/agridata)
 [![NutriDAO](https://img.shields.io/badge/NutriDAO-Planning-blue)](projects/nutridao)

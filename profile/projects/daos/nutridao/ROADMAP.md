@@ -1,5 +1,7 @@
 # 🧬 NutriDAO
 
+> 🇪🇸 [Versión en Español disponible aquí](./ROADMAP.ES.md)
+
 > A community-owned DataDAO for ethical contribution and activation of supplement usage data.  
 > Powered by **OpenFHIRChain** — a modular framework for bringing FHIR medical standards to the blockchain.
 

@@ -1,5 +1,7 @@
 # 🛡️ IdentityChain
 
+> 🇪🇸 [Versión en Español disponible aquí](./ROADMAP.ES.md)
+
 > A community-driven DataDAO for consent-based, privacy-preserving identity verification.  
 > Powered by **OpenKYCChain** — a modular framework for bringing KYC/AML standards to Web3.
 
