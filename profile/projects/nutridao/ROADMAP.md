@@ -15,13 +15,33 @@ NutriDAO rewards participation and gives contributors a voice in how their data 
 
 ---
 
-## 🔧 Built On OpenFHIRChain
+## 🔧 Built on OpenFHIRChain
 
 **OpenFHIRChain** is an open-source framework that brings a subset of the HL7 FHIR healthcare data standard to Web3.  
 It provides modular smart contracts and IPFS integration to store and manage FHIR-compliant resources on-chain.
 
-NutriDAO is the first real-world implementation of OpenFHIRChain.  
+NutriDAO is the first real-world use case of OpenFHIRChain, applying its infrastructure to the health and wellness data space.
 **OpenFHIRChain is extensible and can support additional FHIR resources in future DataDAOs.**
+
+---
+
+## 🚀 Aligned with Vana Academy
+
+NutriDAO is being developed as part of the **Vana Academy**, a 9-week accelerator designed to launch user-owned DataDAOs.
+
+We are progressing through the following phases:
+
+- **Bootcamp & Discovery (Weeks 1–3)**  
+  Understanding the Vana ecosystem, architecture, token standards, and consent-driven data models.
+
+- **Building Phase (Weeks 4–5)**  
+  Finalizing our FHIR data subset, designing smart contracts, and refining the token and governance model.
+
+- **GTM Sprint (Weeks 6–8)**  
+  Launching the MVP, defining tokenomics, and preparing for adoption and integration.
+
+- **Demo Day (Week 9)**  
+  Presenting NutriDAO to investors, builders, and the broader Vana ecosystem.
 
 ---
 
@@ -43,25 +63,10 @@ NutriDAO is the first real-world implementation of OpenFHIRChain.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔍 Under Exploration
 
-| Layer            | Tools & Standards                  |
-|------------------|------------------------------------|
-| Identity         | Vana DIDs, Verifiable Credentials  |
-| Data Storage     | Vana Pods, IPFS                    |
-| Smart Contracts  | Solidity, OpenFHIRChain            |
-| Interoperability | HL7 FHIR (subset)                  |
-| Frontend         | React, TailwindCSS                 |
-| Governance       | VRC-20 Token, Snapshot, Aragon     |
-
----
-
-## 📍 Current Stage
-
-NutriDAO is currently in **Week 3** of the [Vana Academy Accelerator](https://vana.com), in the ideation and prototyping phase.  
-We are defining the core FHIR subset, drafting smart contracts, and mapping out the user data consent flow.
-
-👉 See the [Roadmap →](./ROADMAP.md)
+We are currently evaluating key architectural components, including smart contract logic, data storage models, and governance frameworks.  
+Our goal is to align technical choices with the principles of ethical data ownership and interoperability through OpenFHIRChain and in alignment with the Vana ecosystem.
 
 ---
 
@@ -73,15 +78,8 @@ We welcome collaborators from the health, Web3, and AI ecosystems.
 - 🧠 Researchers: Help define data schemas and ethical frameworks
 - 🗣️ Community: Help us grow awareness around data sovereignty and collective intelligence
 
-> 📬 Contact us via [Discord](https://discord.gg/nutridao_comingsoon) or open an [issue](https://github.com/nutridao/issues)
+> 📬 Contact us via [Discord](https://discord.gg/nutridao_comingsoon) <!--or open an [issue](https://github.com/nutridao/issues)-->
 
 ---
 
-## 📄 License
-
-MIT License.  
-All data contributions remain under the user's control, in line with the principles of the Vana DataDAO framework.
-
----
-
-**© 2025 NutriDAO Team** — Built with ❤️ for ethical data, decentralized health, and human-aligned AI.
+**© 2025 DataChain Collective** — Built with ❤️ for ethical data, decentralized health, and human-aligned AI.
