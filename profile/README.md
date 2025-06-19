@@ -2,9 +2,9 @@
 
 > 🇪🇸 [Versión en Español disponible aquí](./README.ES.md)
 
-[![Project Status](https://img.shields.io/badge/IdentityChain-Planning-blue)](projects/identitychain)
-[![AgriData](https://img.shields.io/badge/AgriData-Planning-blue)](projects/agridata)
-[![NutriDAO](https://img.shields.io/badge/NutriDAO-Planning-blue)](projects/nutridao)
+[![Project Status](https://img.shields.io/badge/IdentityChain-Planning-blue)](projects/daos/identitychain)
+[![AgriData](https://img.shields.io/badge/AgriData-Planning-blue)](projects/daos/agridata)
+[![NutriDAO](https://img.shields.io/badge/NutriDAO-Planning-blue)](projects/daos/nutridao)
 
 <!-- Banner Dinámico -->
 [//]: # ([![DataChain Collective Banner]&#40;./assets/banners/main-banner.png&#41;]&#40;https://datachain-collective.io&#41;)

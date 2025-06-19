@@ -1,9 +1,10 @@
 # 🌐 DataChain-Collective
 
-[![Project Status](https://img.shields.io/badge/IdentityChain-Planificación_estratégica-blue)](projects/identitychain)
-[![AgriData](https://img.shields.io/badge/AgriData-Planificación_estratégica-blue)](projects/agridata)
-[![NutriDAO](https://img.shields.io/badge/NutriDAO-Planificación_estratégica-blue)](projects/nutridao)
+> EN [English version available here](./README.md)
 
+[![Project Status](https://img.shields.io/badge/IdentityChain-Planificación-blue)](projects/daos/identitychain)
+[![AgriData](https://img.shields.io/badge/AgriData-Planificación-blue)](projects/daos/agridata)
+[![NutriDAO](https://img.shields.io/badge/NutriDAO-Planificación-blue)](projects/daos/nutridao)
 
 <!-- Banner Dinámico -->
 [//]: # ([![DataChain Collective Banner]&#40;./assets/banners/main-banner.png&#41;]&#40;https://datachain-collective.io&#41;)
@@ -14,11 +15,12 @@
 </div>
 
 > **"Democratizando el valor de los datos a través de colectivos descentralizados."**  
-> — *Manifiesto DataChain-Collective*
+> — *Manifiesto DataChain Collective*
 
 ---
 
 ## 🚀 Misión y Visión
+
 Construimos **DataDAOs descentralizados** que permiten a las comunidades tomar el control de sus datos mediante blockchain e inteligencia artificial.
 
 Como parte del ecosistema **Vana**, nos comprometemos a:
@@ -37,9 +39,9 @@ Como parte del ecosistema **Vana**, nos comprometemos a:
 
 | Proyecto | Descripción | Estado | Roadmap |
 |----------|-------------|--------|---------|
-| **IdentityChain DAO** | Verificación de identidad basada en DAO que respeta la privacidad y cumple con KYC/AML | `Planificación` | [Ver Roadmap →](./projects/daos/identitychain/ROADMAP.md) |
-| **AgriData Network** | Datos agrícolas mediante IoT para una agricultura resiliente y sostenible | `Planificación` | [Ver Roadmap →](./projects/daos/agridata/ROADMAP.md) |
-| **NutriDAO** |  DataDAO de propiedad comunitaria para datos de uso de suplementos, desarrollada sobre OpenFHIRChain | `Planificación` | [Ver Roadmap →](./projects/daos/nutridao/ROADMAP.md) |
+| **IdentityChain DAO** | Verificación de identidad basada en DAO que respeta la privacidad y cumple con normas KYC/AML | `Planificación` | [Ver Roadmap →](./projects/daos/identitychain/ROADMAP.ES.md) |
+| **AgriData Network** | Datos agrícolas colaborativos mediante IoT para una agricultura resiliente al clima | `Planificación` | [Ver Roadmap →](./projects/daos/agridata/ROADMAP.ES.md) |
+| **NutriDAO** | DataDAO comunitaria para datos sobre suplementos, desarrollada sobre OpenFHIRChain | `Planificación` | [Ver Roadmap →](./projects/daos/nutridao/ROADMAP.ES.md) |
 
 ---
 
@@ -57,12 +59,12 @@ Como parte del ecosistema **Vana**, nos comprometemos a:
 
 Buscamos colaboración abierta de desarrolladores, investigadores y comunidades conscientes del valor de sus datos.
 
-- **Contribuye**: [Guía de Contribución](CONTRIBUTING.ES.md)  
+- **Contribuye**: [Guía de Contribución (ES)](CONTRIBUTING.ES.md) | [Contribution Guidelines (EN)](CONTRIBUTING.md)  
 - **Debates**: Únete a nuestro [Discord](https://discord.com/channels/1384877094156239039/1384877094747639810)
 - **Síguenos**: [Twitter](https://twitter.com/datachaincol_not_yet) *(próximamente)*
 
-¿Tienes preguntas o quieres colaborar en el desarrollo del proyecto? Puedes abrir un [issue](https://github.com/datachain-collective/issues_not_yet) *(próximamente)* o conversar en Discord.
+¿Tienes preguntas o quieres colaborar? Puedes abrir un [issue](https://github.com/datachain-collective/issues_not_yet) *(próximamente)* o unirte a la conversación en Discord.
 
 ---
 
-**© 2025 DataChain Collective** — Hecho con ❤️ por la soberanía de los datos y para co-crear una IA más inteligente.
+**© 2025 DataChain Collective** — Hecho con ❤️ por la soberanía de los datos y para co-crear una IA alineada con los valores humanos.
