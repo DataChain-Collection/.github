@@ -47,7 +47,7 @@ We are progressing through the following phases:
 
 ## 🔍 Use Cases
 
-- Farmers contributing soil and climate sensor data to receive $AGRI tokens
+- Farmers contributing soil and climate sensor data to receive VRC-20 tokens
 - AI systems trained on anonymized datasets for pest prediction or irrigation optimization
 - Real-time alerts for drought or disease risk based on field-level telemetry
 - Data buyers (agritech firms, researchers) accessing curated datasets via tokenized permissions

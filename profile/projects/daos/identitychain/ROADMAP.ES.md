@@ -1,104 +1,86 @@
-# KYCChain: Sistema descentralizado de KYC/AML con DataDAO e IA
+# 🛡️ IdentityChain
 
-```mermaid
-graph LR
-A[Academia Vana] --> B[Bootcamp]
-B --> C[Fase de Construcción]
-C --> D[GTM Sprint]
-D --> E[Demo Day]
-```
+> EN [English version available here](./ROADMAP.md)
 
-## 📍 Estado Actual (Semana 3 - Finalizando Bootcamp)
-**Temas completados:**
-- Visión y arquitectura del protocolo Vana
-- Creación de DataDAOs y tokens VRC-20
-- Mecanismos de acceso a datos descentralizados
-- Fundamentos de identidad digital (DIDs/VCs)
-
-## 🛠️ Roadmap Técnico
-
-### 🧱 Semanas 4-5: Fase de Construcción (MVP)
-**Objetivo:** Prototipo funcional con componentes clave
-
-| Componente             | Tecnologías Vana                          | Entregables                     |
-|------------------------|-------------------------------------------|---------------------------------|
-| **Contratos Inteligentes** | Solidity + VRC-20                     | DID registry con zk-SNARKs      |
-| **Motor de IA AML**    | HuggingFace + PyTorch                     | Modelo de detección de patrones |
-| **Flujo de Usuario**   | React + Vana Data Pods                    | Dashboard de riesgo y tokens    |
-| **Privacidad**         | zk-SNARKs (Vana Privacy Layer)            | Verificación sin exponer datos  |
-
-```mermaid
-sequenceDiagram
-    Usuario->>+Frontend: Sube documentos KYC
-    Frontend->>+Backend: Envía datos encriptados
-    Backend->>+IA: Solicita análisis de riesgo
-    IA-->>-Backend: Score de riesgo (1-100)
-    Backend->>+Blockchain: Registra VC en DID
-    Blockchain-->>-Usuario: Credencial verificable
-```
-
-### 🚀 Semanas 6-8: GTM Sprint
-**Estrategia de salida al mercado**
-
-1. **Tokenomics Design (Semana 6)**
-    - Modelo $KYC: Gobernanza + acceso a datos
-    - Recompensas por verificación exitosa
-    - Staking para validadores
-
-2. **PoC Refinamiento (Semana 7)**
-    - Integración Chainalysis Oracle
-    - Soporte multi-cadena (Polygon zkEVM)
-    - Compliance GDPR/FATF
-
-3. **Go-to-Market (Semana 8)**
-    - Kit de integración para fintechs
-    - Programa de socios early-adopters
-    - Estrategia de adopción DeFi
-
-### 📣 Semana 9: Demo Day
-**Elementos clave de presentación:**
-```markdown
-- [ ] **Demo en vivo:** 
-      KYC → VC issuance → Risk detection
-- [ ] **Tokenomics:** 
-      Modelo sostenible con VRC-20
-- [ ] **Traction:** 
-      2 integraciones con protocolos DeFi
-- [ ] **Roadmap futuro:** 
-      API SaaS para instituciones financieras
-```
-
-## 💻 Stack Técnico
-
-| Capa               | Tecnologías Vana Native       | Complementos               |
-|--------------------|-------------------------------|----------------------------|
-| **Identidad**      | Vana DIDs                     | Polygon ID                 |
-| **Datos**          | Vana Data Pods                | Ceramic Network            |
-| **Procesamiento**  | Federated Learning            | PyTorch/TensorFlow         |
-| **Tokens**         | VRC-20 Standard               | Aragon OSx                 |
-| **Privacidad**     | zk-SNARKs                     | Aleo/zkSync                |
-
-## 📊 Modelo de Negocio
-
-| Fuente de Ingresos       | Descripción                          | Monetización               |
-|--------------------------|--------------------------------------|----------------------------|
-| **Verificaciones**       | Micropagos por KYC ($0.50-$2)        | API transactions           |
-| **Suscripciones**        | Planes empresariales                 | Tiered monthly plans       |
-| **Data Insights**        | Venta de análisis de riesgo          | Modelos verticalizados     |
-| **Token Utility**        | Acceso premium a servicios           | VRC-20 token burns         |
-
-## 🌟 Diferenciadores Clave
-1. **Privacidad Cero-Conocimiento:** Verificación sin exponer datos sensibles
-2. **Reutilización de Identidad:** Credenciales portables entre plataformas
-3. **Modelo Auto-Sostenible:** Tokenomics que recompensa participación
-4. **Cumplimiento Regulatorio:** Diseñado con FATF/GDPR desde inicio
-
-## ▶️ Próximos Pasos (Semana 4)
-1. Implementar contrato VRC-20 para recompensas
-2. Desarrollar módulo zk-KYC con Vana Privacy Layer
-3. Curar dataset AML para entrenamiento inicial
-4. Diseñar flujo de consentimiento DataDAO
+> DataDAO descentralizado para verificación de identidad bajo consentimiento y preservación de la privacidad.  
+> Desarrollado sobre **OpenKYCChain** — un framework modular que adapta los estándares KYC/AML al entorno Web3.
 
 ---
 
-**Equipo KYCChain** │ [Documentación Técnica](https://github.com/kycchain/docs) │ [Demo Interactiva](https://demo.kycchain.xyz)
+## 🧠 ¿Qué es IdentityChain?
+
+**IdentityChain** es un DataDAO comunitario diseñado para facilitar la verificación de identidad de forma segura, interoperable y centrada en el usuario.  
+Los datos se mantienen bajo el control de quien los aporta y se tokenizan mediante la infraestructura de Vana, lo que permite su uso por parte de aplicaciones fintech, DeFi y sistemas de reputación, siempre bajo consentimiento.
+
+IdentityChain recompensa la participación y permite a los usuarios gobernar las reglas de acceso, validación y actualización del sistema.
+
+---
+
+## 🔧 Basado en OpenKYCChain
+
+**OpenKYCChain** es un framework de código abierto que define contratos inteligentes reutilizables y flujos de verificación para cumplir con los estándares KYC/AML en Web3.  
+Proporciona componentes modulares para la emisión de credenciales, control de acceso y validación sin comprometer la privacidad.
+
+IdentityChain es su primer caso de uso real aplicado.  
+**OpenKYCChain es extensible y puede incorporar modelos adicionales de cumplimiento, scoring de riesgo y adaptaciones jurisdiccionales.**
+
+---
+
+## 🚀 Alineación con Vana Academy
+
+IdentityChain se está desarrollando como parte de la **Vana Academy**, una aceleradora de 9 semanas enfocada en lanzar DataDAOs gestionados por sus usuarios.
+
+Seguimos el siguiente proceso:
+
+- **Bootcamp y Descubrimiento (Semanas 1–3)**  
+  Exploración del ecosistema Vana, arquitectura de datos y estándares de consentimiento.
+
+- **Fase de Construcción (Semanas 4–5)**  
+  Diseño de contratos inteligentes, definición del modelo de gobernanza y lógica de cumplimiento.
+
+- **Sprint GTM (Semanas 6–8)**  
+  Desarrollo del MVP, tokenomics, y preparación para adopción en fintechs y plataformas DeFi.
+
+- **Demo Day (Semana 9)**  
+  Presentación de IdentityChain ante inversores y actores clave del ecosistema Vana.
+
+---
+
+## 🎯 Misión
+
+- 🔐 Facilitar cumplimiento KYC/AML sin sacrificar la privacidad  
+- 🔄 Reemplazar procesos centralizados por credenciales verificables y gobernanza abierta  
+- 🤖 Usar IA para análisis de patrones y riesgo  
+- 🗳️ Empoderar a los usuarios para gobernar políticas de identidad y validadores
+
+---
+
+## 🔍 Casos de Uso
+
+- Onboarding KYC con consentimiento en plataformas DeFi  
+- Identidad digital portable y reutilizable  
+- Gobernanza comunitaria sobre reglas AML y comportamiento de validadores  
+- Monetización de insights de identidad bajo control del usuario
+
+---
+
+## 🔍 En Exploración
+
+Estamos refinando la arquitectura de OpenKYCChain y evaluando mecanismos de privacidad, estructuras de incentivos, y gobernanza DAO.  
+Nuestro objetivo es alinear cada componente con las mejores prácticas regulatorias y la infraestructura modular del protocolo Vana.
+
+---
+
+## 🤝 Contribuye
+
+Buscamos colaboradores en áreas de tecnología de privacidad, identidad digital y cumplimiento regulatorio.
+
+- 🧑‍💻 Devs: Implementación de contratos y lógica de gobernanza  
+- ⚖️ Expertos legales: Modelado de flujos de datos y cumplimiento  
+- 🗣️ Comunidad: Ayuda en adopción temprana y validación de casos de uso
+
+> 📬 Contáctanos vía [Discord](https://discord.com/channels/1384877094156239039/1384877094747639810) <!--o abre un [issue](https://github.com/identitychain/issues)-->
+
+---
+
+**© 2025 DataChain Collective** — Hecho con ❤️ por la identidad soberana, la privacidad verificable y el cumplimiento descentralizado.
