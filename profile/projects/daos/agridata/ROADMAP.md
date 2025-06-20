@@ -73,4 +73,4 @@ We welcome collaborators from agriculture, Web3, and AI domains.
 
 ---
 
-**© 2025 DataChain Collective** — Built with ❤️ for ethical agriculture, open data, and sustainable ecosystems.
+**© 2025 DataChain Collection** — Built with ❤️ for ethical agriculture, open data, and sustainable ecosystems.

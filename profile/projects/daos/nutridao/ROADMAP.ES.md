@@ -84,4 +84,4 @@ Buscamos colaboradores de los ámbitos de salud, Web3 e inteligencia artificial.
 
 ---
 
-**© 2025 DataChain Collective** — Hecho con ❤️ por los datos éticos, la salud descentralizada y una IA alineada con las personas.
+**© 2025 DataChain Collection** — Hecho con ❤️ por los datos éticos, la salud descentralizada y una IA alineada con las personas.

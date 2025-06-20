@@ -84,4 +84,4 @@ We welcome contributors from privacy tech, Web3, and digital identity communitie
 
 ---
 
-**© 2025 DataChain Collective** — Built with ❤️ for user-owned identity, privacy-first verification, and decentralized compliance.
+**© 2025 DataChain Collection** — Built with ❤️ for user-owned identity, privacy-first verification, and decentralized compliance.

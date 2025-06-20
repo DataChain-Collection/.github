@@ -73,4 +73,4 @@ Buscamos colaboradores en los sectores agrícola, Web3 y de IA.
 
 ---
 
-**© 2025 DataChain Collective** — Hecho con ❤️ por una agricultura ética, datos abiertos y ecosistemas sostenibles.
+**© 2025 DataChain Collection** — Hecho con ❤️ por una agricultura ética, datos abiertos y ecosistemas sostenibles.

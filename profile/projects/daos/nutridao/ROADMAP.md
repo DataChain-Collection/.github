@@ -84,4 +84,4 @@ We welcome collaborators from the health, Web3, and AI ecosystems.
 
 ---
 
-**© 2025 DataChain Collective** — Built with ❤️ for ethical data, decentralized health, and human-aligned AI.
+**© 2025 DataChain Collection** — Built with ❤️ for ethical data, decentralized health, and human-aligned AI.

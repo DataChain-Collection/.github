@@ -83,4 +83,4 @@ Buscamos colaboradores en áreas de tecnología de privacidad, identidad digital
 
 ---
 
-**© 2025 DataChain Collective** — Hecho con ❤️ por la identidad soberana, la privacidad verificable y el cumplimiento descentralizado.
+**© 2025 DataChain Collection** — Hecho con ❤️ por la identidad soberana, la privacidad verificable y el cumplimiento descentralizado.
