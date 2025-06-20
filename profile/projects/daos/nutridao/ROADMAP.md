@@ -1,4 +1,4 @@
-# 🧬 NutriDAO
+# 🧬 NutriDAO: Own Your Nutrition Data. Shape the Future of Wellness.
 
 > 🇪🇸 [Versión en Español disponible aquí](./ROADMAP.ES.md)
 
