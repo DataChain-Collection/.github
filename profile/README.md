@@ -11,7 +11,7 @@
 
 <!-- Logotipo Principal -->
 <div align="center">
-  <img src="./assets/logos/main-logo-trans.png" alt="DataChain Collective Logo" width="200">
+  <img src="./assets/logos/main-logo-bg.svg" alt="DataChain Collective Logo" width="200">
 </div>
 
 > **"Democratizing data value through decentralized collectives."**  
