@@ -29,7 +29,7 @@ IdentityChain is the first applied use case of OpenKYCChain.
 
 ## 🚀 Aligned with Vana Academy
 
-NutriDAO is being developed as part of the **Vana Academy**, a 9-week accelerator designed to launch user-owned DataDAOs.
+IdentityChain is being developed as part of the **Vana Academy**, a 9-week accelerator designed to launch user-owned DataDAOs.
 
 We are progressing through the following phases:
 
