@@ -1,4 +1,4 @@
-# 🌐 DataChain-Collective
+# 🌐 DataChain-Collection
 
 > 🇪🇸 [Versión en Español disponible aquí](./README.ES.md)
 
@@ -7,11 +7,11 @@
 [![NutriDAO](https://img.shields.io/badge/NutriDAO-Planning-blue)](projects/daos/nutridao/ROADMAP.md)
 
 <!-- Banner Dinámico -->
-[//]: # ([![DataChain Collective Banner]&#40;./assets/banners/main-banner.png&#41;]&#40;https://datachain-collective.io&#41;)
+[//]: # ([![DataChain Collection Banner]&#40;./assets/banners/main-banner.png&#41;]&#40;https://datachain-collection.io&#41;)
 
 <!-- Logotipo Principal -->
 <div align="center">
-  <img src="./assets/logos/main-logo-bg.svg" alt="DataChain Collective Logo" width="200">
+  <img src="./assets/logos/main-logo-bg.svg" alt="DataChain Collection Logo" width="200">
 </div>
 
 > **"Democratizing data value through decentralized collectives."**  
@@ -63,8 +63,8 @@ We welcome open collaboration from developers, researchers, and data-conscious c
 - **Discuss**: Join our [Discord](https://discord.com/channels/1384877094156239039/1384877094747639810)
 - **Follow**: [Twitter](https://twitter.com/datachaincol_not_yet) *(coming soon)*
 
-Have questions or want to build with us? Feel free to open an [issue](https://github.com/datachain-collective/issues_not_yet) *(coming soon)* or connect via Discord.
+Have questions or want to build with us? Feel free to open an [issue](https://github.com/datachain-collection/issues_not_yet) *(coming soon)* or connect via Discord.
 
 ---
 
-**© 2025 DataChain Collective** — Made with ❤️ for data sovereignty and co-create smarter AI.
+**© 2025 DataChain Collection** — Made with ❤️ for data sovereignty and co-create smarter AI.

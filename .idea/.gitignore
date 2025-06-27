@@ -4,7 +4,7 @@
 # Rider ignored files
 /contentModel.xml
 /modules.xml
-/.idea.DataChain-Collective.iml
+/.idea.DataChain-Collection.iml
 /projectSettingsUpdater.xml
 # Editor-based HTTP Client requests
 /httpRequests/
