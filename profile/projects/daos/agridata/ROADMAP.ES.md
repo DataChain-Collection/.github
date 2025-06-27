@@ -1,5 +1,10 @@
 # 🌾 AgriData
 
+<!-- Logotipo Principal -->
+<div align="center">
+  <img src="../../../assets/logos/agridata-logo.png" alt="AgriData DAO Logo" width="200">
+</div>
+
 > EN [English version available here](./ROADMAP.md)
 
 > DataDAO descentralizado para compartir y activar datos agrícolas con el fin de optimizar la producción y promover la sostenibilidad.  
