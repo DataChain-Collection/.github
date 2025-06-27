@@ -2,7 +2,7 @@
 
 <!-- Logotipo Principal -->
 <div align="center">
-  <img src="../../../assets/logos/agridata-logo.png" alt="AgriData DAO Logo" width="200">
+  <img src="../../../assets/logos/agridata-logo-min.png" alt="AgriData DAO Logo" width="200">
 </div>
 
 > EN [English version available here](./ROADMAP.md)
